@@ -1,6 +1,7 @@
 # Terasology
 Çağatay SURKULTAY
 Emin Burak DUMAN #1
+added the glasses and the diamond sword
 [![Build Status](http://jenkins.terasology.org/job/Terasology/badge/icon)](http://jenkins.terasology.org/job/Terasology/)
 [![Release](https://img.shields.io/github/release/MovingBlocks/Terasology.svg)](../../releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/MovingBlocks/Terasology/latest/total.svg "Downloads")](../../releases/latest)
